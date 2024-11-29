@@ -1,4 +1,4 @@
-# Hi there, I'm Yamami Mohammed Monsif
+# Hi there 👋, I'm Yamami Mohammed Monsif
 Aspiring Frontend Developer passionate about creating user-friendly web applications.
 
 ## About me
