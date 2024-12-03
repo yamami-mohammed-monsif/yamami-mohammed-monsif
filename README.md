@@ -24,9 +24,6 @@ Aspiring Frontend Developer passionate about creating user-friendly web applicat
   <a href="https://instagram.com/your-profile" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://discord.com/users/your-profile" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" alt="Discord"/>
-  </a>
 </div>
 
 
