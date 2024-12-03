@@ -18,7 +18,7 @@ Aspiring Frontend Developer passionate about creating user-friendly web applicat
   <a href="https://www.linkedin.com/in/mohamed-moncif-yamami-831b75330/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href="https://x.com/moncif_yamami?t=VCJi8BWRHqaPgMoLzp7F7A&s=09" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/your-profile" target="_blank">
